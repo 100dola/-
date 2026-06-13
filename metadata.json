@@ -1,0 +1,8 @@
+{
+  "name": "Budget DZ",
+  "description": "المنصة المالية الذكية للعمال والموظفين في الجزائر لإدارة الرواتب والادخار بمحاكاة متقدمة وذكاء اصطناعي.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
